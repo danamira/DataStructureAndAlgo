@@ -63,7 +63,8 @@ class LinkedList {
 	}
 
 	public void pop(Integer index) {
-		this.getNthNode(index-1).next=this.getNthNode(index+1);
+		ListNode x=this.getNthNode(index-1);
+		x.next=x.next.next;
 	}
 
 	public Integer size() {
