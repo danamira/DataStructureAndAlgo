@@ -1,0 +1,2 @@
+# DataStructureAndAlgo
+These are some of my practices in regard to algorithm design and data structures. Many of them might seem basic or amature implementations so I highly encourage you to don't waste your time looking at them :)
